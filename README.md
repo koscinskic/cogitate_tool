@@ -1,3 +1,3 @@
-# cogitate_tool
+# Team Interactions
 
-Tool to analyze contributions when working in a team.
+This branch is for the schedule and planning features for Team Interactions. 
