@@ -14,4 +14,11 @@
 
 ## Week Four (March 3 - March 10)
 
-## PROJECT DUE MARCH 13, 2:30 PM
+## Project Due March 13, 230 PM
+
+
+## End Goal
+
+An online interface that identifies if an individual falls under the category
+of "code hoarder" or "domain expert", and if there are individuals who
+collaborate too often or not enough.
