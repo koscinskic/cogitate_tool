@@ -36,6 +36,19 @@
 
 ## Week Three (Feb 25 - March 3)
 
+1. Determine Streamlit is the best tool for an online interface.
+2. Begin implementation of a basic online interface.
+3. Define methods: (similiar to those in the CLI)
+    * retrieve branches from repo
+    * retrieve usernames from branches
+    * retrieve user input from terminal that defines what the "average" level
+      of commits are (anything above the average "code hoarding")
+    * compares the number of commits a user has in each branch and file to
+      the set average
+    * sends notification to the user when an individual has a high number
+      of commits on a branch or file
+4. Integrate the other tools used in the CLI into the online interface.
+
 ### Demo Week Three: Basic Online Interface
 
 ## Week Four (March 3 - March 10)
