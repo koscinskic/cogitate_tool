@@ -8,7 +8,7 @@
     * retrieve usernames from branches
 3. Determine if PyGithub or PyDriller would work best for the given methods,
    implement the one that works best.
-4. Build a basic CLI with the above features. 
+4. Build a basic CLI with the above features.
 
 ### Demo Week One: Basic Command Line Interface Using Tools and Two Methods
 
@@ -18,14 +18,29 @@
 2. Define methods:
     * retrieve user input from terminal that defines what the "average" level
       of commits are (anything above the average "code hoarding")
+    * compares the number of commits a user has in each branch and file to
+      the set average
+    * sends notification to the user when an individual has a high number
+      of commits on a branch or file
+    * pairs every user to everyone else and counts the number of times they
+      both make commits to the same branch,
+    * pairs every user to everyone else and counts the number of times they
+      both make commits to the same file
+    * send notification to the user when an individual has a number of
+      collaborations with a specific person, beyond the average
+    Note: these methods are meant to analyze the data collected by the
+    Individual Metrics team
 3. Continue building the CLI with the new features for the week.
 
 ### Demo Week Two: Completed Command Line Interface
 
 ## Week Three (Feb 25 - March 3)
 
+### Demo Week Three: Basic Online Interface
 
 ## Week Four (March 3 - March 10)
+
+### Demo Week Four: Completed Online Interface
 
 ## Project Due March 13, 230 PM
 
@@ -40,4 +55,5 @@ of the customer, pulled into master with entire system.
 
 An online interface that identifies if an individual falls under the category
 of "code hoarder" or "domain expert", and if there are individuals who
-collaborate too often or not enough.
+collaborate too often or not enough. This is done through analyzing the data
+collected by the Individual Metrics team.
