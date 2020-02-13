@@ -43,15 +43,24 @@
     * retrieve usernames from branches
     * retrieve user input from terminal that defines what the "average" level
       of commits are (anything above the average "code hoarding")
-    * compares the number of commits a user has in each branch and file to
-      the set average
-    * sends notification to the user when an individual has a high number
-      of commits on a branch or file
 4. Integrate the other tools used in the CLI into the online interface.
 
 ### Demo Week Three: Basic Online Interface
 
 ## Week Four (March 3 - March 10)
+
+1. Define methods: (similiar to those in the CLI)
+    * compares the number of commits a user has in each branch and file to
+      the set average
+    * sends notification to the user when an individual has a high number
+      of commits on a branch or file
+      pairs every user to everyone else and counts the number of times they
+        both make commits to the same branch,
+    * pairs every user to everyone else and counts the number of times they
+      both make commits to the same file
+    * send notification to the user when an individual has a number of
+      collaborations with a specific person, beyond the average
+2. Improve existing features in the online interface
 
 ### Demo Week Four: Completed Online Interface
 
