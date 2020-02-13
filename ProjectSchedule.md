@@ -1,6 +1,6 @@
 # Team Schedule
 
-## Week One (Feb 11 - Feb 18)
+## Week One (Feb 11 - Feb 18): Due at noon on Monday, 2/17
 
 1. Research the use of Command Line Interface (CLI).
 2. Define methods:
@@ -12,7 +12,7 @@
 
 ### Demo Week One: Basic Command Line Interface Using Tools and Two Methods
 
-## Week Two (Feb 18 - Feb 25)
+## Week Two (Feb 18 - Feb 25): Due at noon on Monday, 2/24
 
 1. Ensure correct tool (PyDriller or PyGuthub) is used in the methods.
 2. Define methods:
@@ -34,7 +34,7 @@
 
 ### Demo Week Two: Completed Command Line Interface
 
-## Week Three (Feb 25 - March 3)
+## Week Three (Feb 25 - March 3): Due at noon on Monday, 3/03
 
 1. Determine Streamlit is the best tool for an online interface.
 2. Begin implementation of a basic online interface.
@@ -47,7 +47,7 @@
 
 ### Demo Week Three: Basic Online Interface
 
-## Week Four (March 3 - March 10)
+## Week Four (March 3 - March 10): Due at noon on Monday, 3/10
 
 1. Define methods: (similiar to those in the CLI)
     * compares the number of commits a user has in each branch and file to
