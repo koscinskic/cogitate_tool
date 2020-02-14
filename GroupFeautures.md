@@ -1,4 +1,4 @@
-# Features to Measure Team Interactions
+ # Features to Measure Team Interactions
 
 ## Questions
 1. Are there team members who are "code hoarders" or "domain experts"?
@@ -6,4 +6,4 @@
 
 ## Question 1 Features: Tracking "code hoarders" and "domain experts"
 
-## Question 2 Features: Tracking collaboration frequency 
+## Question 2 Features: Tracking collaboration frequency

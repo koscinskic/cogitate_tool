@@ -1,4 +1,4 @@
-# Team Schedule
+# Team Interactions Schedule
 
 ## Week One (Feb 11 - Feb 18): Due at noon on Monday, 2/17
 
