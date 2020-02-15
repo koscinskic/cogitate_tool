@@ -31,6 +31,7 @@
     Note: these methods are meant to analyze the data collected by the
     Individual Metrics team
 3. Continue building the CLI with the new features for the week.
+4. Ensure the CLI uses the universal .json file. 
 
 ### Demo Week Two: Completed Command Line Interface
 
