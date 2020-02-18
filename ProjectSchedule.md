@@ -32,16 +32,22 @@
     Note: these methods are meant to analyze the data collected by the
     Individual Metrics team
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 3. Continue building the CLI with the new features for the week.
 4. Ensure the CLI uses the universal `.json` file.
 5. Develop testing files that use `pytest`, add testing dependencies.
 6. Ensure all code files are using `docstrings` so we understand them.
 7. Ensure files are run with `pipenv` and all `pyenv` files are present.
 =======
+=======
+>>>>>>> Stashed changes
 3. Ensure our code files use the universal .json file.
 4. Develop testing files that use pytest, add testing dependencies.
 5. Ensure all code files are using docstrings so we understand them.
 6. Ensure files are run with pipenv and all pinenv files are present.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ### Demo Week Two: Completed Command Line Interface
