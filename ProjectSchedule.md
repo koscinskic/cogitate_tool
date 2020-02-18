@@ -16,11 +16,11 @@
 
 1. Implement the methods other groups have created into our work to access
     the data to run our methods.
-2. Define methods:
-    * retrieve user input from terminal that defines what the "average" level
-      of commits are (anything above the average "code hoarding") (in CLI)
-    * compares the number of commits a user has in each branch and file to
-      the set average
+2. Implementing click in place of PyInquirer as our CLI.
+    * two command line arguments
+    * calculate code hoarders and frequent collaborators
+3. Define methods:
+    * from CLI, takes user input for the average number of commits
     * sends notification to the user when an individual has a high number
       of commits on a branch or file (in CLI)
     * pairs every user to everyone else and counts the number of times they
@@ -31,10 +31,10 @@
       collaborations with a specific person, beyond the average (in CLI)
     Note: these methods are meant to analyze the data collected by the
     Individual Metrics team
-3. Ensure our code files use the universal .json file.
-4. Develop testing files that use pytest, add testing dependencies.
-5. Ensure all code files are using docstrings so we understand them.
-6. Ensure files are run with pipenv and all pinenv files are present.
+4. Ensure our code files use the universal .json file.
+5. Develop testing files that use pytest, add testing dependencies.
+6. Ensure all code files are using docstrings so we understand them.
+7. Ensure files are run with pipenv and all pinenv files are present.
 
 ### Demo Week Two: Completed Command Line Interface
 
